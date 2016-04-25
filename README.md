@@ -3,9 +3,9 @@
 
 ####Implements the following the data strcutures in Javascript
 
-Stack
-Queue
-Tree
+Stack 
+Queue 
+Tree  
 BinarySearchTree           
 bloomFilter                
 doubly-linked-list         
