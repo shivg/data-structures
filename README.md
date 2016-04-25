@@ -1,11 +1,11 @@
-#Data Structures
-###Data Structures implementation
+##Data Structures
+####Data Structures implementation
 
-####Implements the following the data strcutures in Javascript
+**Implements the following the data strcutures in Javascript**
 
-Stack 
-Queue 
-Tree  
+Stack </br>
+Queue </br>
+Tree  </br>
 BinarySearchTree           
 bloomFilter                
 doubly-linked-list         
